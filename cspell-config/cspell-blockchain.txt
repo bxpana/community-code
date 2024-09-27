@@ -13,6 +13,7 @@ Enkrypt
 ethereum
 EVM
 evmla
+foundryup
 geth
 graphcli
 gwei

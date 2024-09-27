@@ -10,6 +10,7 @@ Ankr
 binop
 blake2s
 blake2s256
+bxpana
 cccond
 ccret
 CHAINID
